@@ -9,7 +9,7 @@ name: Lê Văn Nam
 description: Frist blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/OTPrime/otprime.github.io/images/avatar.png
+avatar: https://github.com/OTPrime/otprime.github.io/master/images/avatar.png
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://github.com/OTPrime/otprime.github.io/images/avatar.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: lvnam0801@gmail.com
+  facebook: https://www.facebook.com/nam.v.81
   flickr:
-  github: OTPrime/otprime.github.io
-  instagram:
-  linkedin:
+  github: https://github.com/OTPrime
+  instagram: https://www.instagram.com/nam.v_81/
+  linkedin: https://www.linkedin.com/in/otprime/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: Lê Văn Nam
+  twitter: https://twitter.com/OTPrime81
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
