@@ -6,7 +6,7 @@
 name: Lê Văn Nam
 
 # Short bio or description (displayed in the header)
-description: Frist blog
+description: Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/OTPrime/otprime.github.io/images/avatar.png
@@ -18,8 +18,8 @@ avatar: https://github.com/OTPrime/otprime.github.io/images/avatar.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: lvnam0801@gmail.com
+  facebook: https://www.facebook.com/nam.v.81
   flickr:
   github: OTPrime
   instagram:
