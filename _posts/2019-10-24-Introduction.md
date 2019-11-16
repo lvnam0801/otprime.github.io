@@ -20,7 +20,7 @@ In general, any machine learning problem can be assign to one of two broad class
 ### Supervised learning
 In supervised learning, we are given a data set(training set) and already know what our correct ouput should look like, having the idea that there is a relationship between the input and the output.
 
-Supervised learning problem are categorized into <strong><em>regression</em></strong> and <strong><em>classification</em></strong>. In a regression problem, we are trying to predict results with a continuous ouput(linear), meaning that we are trying to map input variables to some continuous function. In a classification problem, we are instead trying to predict results in a discrete output. In the words, we are trying to map input variable into discrete categories.
+Supervised learning problem are categorized into <strong><em>regression</em></strong> and <strong><em>classification</em></strong>. In a regression problem, we are trying to predict results with a continuous ouput, meaning that we are trying to map input variables to some continuous function. In a classification problem, we are instead trying to predict results in a discrete output. In the words, we are trying to map input variable into discrete categories.
 
 - Example 1:
     - Give data about size of houses on the read estate market, try to predict their price. Price as function of size is continuous output, so this is a regression problem.
@@ -39,3 +39,5 @@ With unsupervised learning there is no feedback base on the prediction results.
 - Example:
     - Clustering: Take a collection 1,000,000 different gens, and find a way to autumatically group into groups that somehow similar or related by different variables, such as lifespan, location, roles, and so on. 
     - Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in chaotic environment.(i.e identifying individual voices and music from a mesh sounds at [a cocktail](https://en.wikipedia.org/wiki/Cocktail_party_effect))
+
+[<img src="{{ site.baseurl }}/images/InstroductionML.png" alt="Constructocat by https://github.com/jasoncostello" style="width: 800px;"/>]({{ site.baseurl }}/)
