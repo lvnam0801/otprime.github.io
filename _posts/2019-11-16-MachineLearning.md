@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Introduction of machine learning 
+title: Machine learning 
 ---
+[<img src="{{ site.baseurl }}/images/InstroductionML2.png" alt="Constructocat by https://github.com/jasoncostello" style="width: 800px;"/>]({{ site.baseurl }}/)
 ### Definitions
 Two definition machine learning are offered. Arthur Samuel described it as: "the field of study that give computers the ability to learn without being explicitly programmed." This is an older, infomal definition.
 
@@ -41,3 +42,6 @@ With unsupervised learning there is no feedback base on the prediction results.
     - Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in chaotic environment.(i.e identifying individual voices and music from a mesh sounds at [a cocktail](https://en.wikipedia.org/wiki/Cocktail_party_effect))
 
 [<img src="{{ site.baseurl }}/images/InstroductionML.png" alt="Constructocat by https://github.com/jasoncostello" style="width: 800px;"/>]({{ site.baseurl }}/)
+
+Reference:
+1. [Course](https://www.coursera.org/learn/machine-learning/home/week/1)
